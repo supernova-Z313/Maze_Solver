@@ -51,3 +51,5 @@ $ pip3.X install -r Requirements.txt
 3. Creating a graphical interface with the ability to change the size of the maze. 📐
 
 4. Using the canvas instead of buttons to draw shapes better and make the program faster. 🖌
+
+##
